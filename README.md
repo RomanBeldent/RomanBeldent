@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/RomanBeldent/RomanBeldent/blob/master/img/snow-mountains-pine-trees-clear-sky-clouds-sunset-mountain-6016x3384-2448.jpg)
+![Cover](https://github.com/RomanBeldent/RomanBeldent/blob/main/img/snow-mountains-pine-trees-clear-sky-clouds-sunset-mountain-6016x3384-2448.jpg)
