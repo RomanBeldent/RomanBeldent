@@ -7,7 +7,7 @@ Je suis donc en recherche d'alternance "Développeur concepteur d'applications" 
 
 À l'avenir, mon objectif est d'être développeur <strong>MERN <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/DA3940" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />  
 
-## Voici les technologies que j'ai appris jusque là
+## Les technos que j'ai utilisé jusque là
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/php" /> <img height="32" width="32" src="https://cdn.simpleicons.org/symfony/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" /> 
 
