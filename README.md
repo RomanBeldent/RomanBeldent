@@ -9,7 +9,7 @@ Je suis donc en recherche d'alternance "Développeur concepteur d'applications" 
 
 ## Les connaissances que j'ai acquises
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/php" /> <img height="32" width="32" src="https://cdn.simpleicons.org/symfony/grey" /> <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/php" /> <img height="32" width="32" src="https://cdn.simpleicons.org/symfony/grey" /> <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/github/grey" /> 
 
  #### 🌱 Je suis actuellement en train d'apprendre Node.js et de mettre en place un projet avec un développeur React
  Des projets sont à venir très prochainement sur cette page 🙌
