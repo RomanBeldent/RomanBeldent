@@ -14,7 +14,7 @@ Je suis donc en recherche d'alternance "Développeur concepteur d'applications" 
 #### 🌱 Je suis actuellement en train d'apprendre Node.js et de mettre en place un projet avec un développeur React
 Des projets sont à venir très prochainement sur cette page 🙌
 
-Vous pouvez me contacter via Linkedin <a href="https://www.linkedin.com/in/romanbeldent"> <img height="20" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
+Je suis joignable via Linkedin <a href="https://www.linkedin.com/in/romanbeldent" target="_blank"> <img height="20" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
 ou par mail  <a href="mailto:romanbeldent@gmail.com"><img height="20" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/gmail.png"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanbeldent&show_icons=true&theme=merko)
