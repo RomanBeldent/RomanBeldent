@@ -5,11 +5,11 @@
 En reconversion pro (anciennement technicien son et monteur son dans le cinéma), je viens de finir une formation Développeur FullStack chez O'Clock et souhaite continuer mon apprentissage avec eux.
 Je suis donc en recherche d'alternance "Développeur concepteur d'applications" !
 
-🌱 Je suis actuellement en train d'apprendre Node.js et de mettre en place un projet avec un développeur React
+🌱 Je suis actuellement en train d'apprendre Node.js et de mettre en place un projet avec un développeur React.
 
-Des projets sont à venir très prochainement sur cette page 🙌
+Des projets sont à venir très prochainement sur cette page. 🙌
 
-À l'avenir, mon objectif est d'être développeur <strong>MERN <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/DA3940" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />  
+À l'avenir, mon objectif est d'être développeur <strong>MERN. <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/DA3940" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />  
 
 ## Les connaissances que j'ai acquises
 
