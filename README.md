@@ -5,7 +5,7 @@
 En reconversion pro (anciennement technicien son et monteur son dans le cinéma), je viens de finir une formation Développeur FullStack chez O'Clock et souhaite continuer mon apprentissage avec eux.
 Je suis donc en recherche d'alternance "Développeur concepteur d'applications" !
 
-🌱 Je suis actuellement en train d'apprendre Node.js et de mettre en place un projet avec un développeur React.
+🌱 Je suis actuellement en train d'apprendre Node.js et React.
 
 Des projets sont à venir très prochainement sur cette page. 🙌
 
