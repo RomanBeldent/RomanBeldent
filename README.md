@@ -2,7 +2,7 @@
 
 ## Bonjour à toi ! 👋 Bienvenue sur mon GitHub, voici quelques infos me conçernant 
 
-En reconversion pro (anciennement technicien son et monteur son dans le cinéma), j'ai fais une formation développeur web & web mobile avec O'Clock, et souhaite continuer sur une alternance Concepteur développeur d'applications avec la Wild Code School. 
+En reconversion pro (anciennement technicien son et monteur son dans le cinéma), j'ai fais une formation développeur web & web mobile avec O'Clock, et souhaite continuer sur une alternance Concepteur développeur d'applications avec la Wild Code School. </br>
 Je suis donc en recherche d'une entreprise pour effectuer cette nouvelle aventure !
 
 ## Les connaissances que j'ai acquises jusqu'ici
